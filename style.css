@@ -1,0 +1,43 @@
+.fotoRedonda {
+    border-radius: 50%;
+}
+
+body {
+    background-color: #6495ED;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.conteiner {
+    max-width: 700px;
+    margin: auto;
+    background-color: red;
+    text-align: center;
+}
+
+.lista {
+    max-width: 150px;
+    margin: auto;
+}
+
+.links {
+    background-color: green;
+}
+
+.texto {
+    background-color: yellow;
+    max-width: 45.7%;
+    float: left;
+    height: 150px;
+    padding: 0px 15px;
+    line-height: 25px;   
+}
+
+.foto {
+    background-color: gray;
+    width: 50%;
+    float: left;
+    height: 150px;
+}
+ 
